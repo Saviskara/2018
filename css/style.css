@@ -81,7 +81,7 @@ a:focus {
 }
 
 .navbar-brand h1{
-	color: #fff;
+	color: black;
   font-size: 20px;
   line-height: 40px;
 }
@@ -354,7 +354,14 @@ hr {
 }
 
 .intro .slogan h4 {
-	color: #fff;
+	
+    font-family: Consolas,monaco,monospace;
+    font-size: 24px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 500;
+    line-height: 26.4px;
+
 	text-shadow: -1px 1px 1px #000;
 }
 
