@@ -47,7 +47,7 @@ p.lead {
 }
 
 a {
-    color: #28c3ab;
+    
     -webkit-transition: all .2s ease-in-out;
     -moz-transition: all .2s ease-in-out;
     transition: all .2s ease-in-out;
@@ -80,8 +80,13 @@ a:focus {
 }
 
 .navbar-brand h1{
-	color: #fff;
+	color: #36454F;
   font-size: 20px;
+  line-height: 40px;
+}
+.navbar-brand h3{
+    color: #36454F;
+  font-size: 25px;
   line-height: 40px;
 }
 
